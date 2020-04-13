@@ -1,8 +1,4 @@
 """
-Author: Richard Cai
-Description: Getaway (summative game)
-Date: 5/29/2015
-
        Versions:
        V1.0 - Moving car sprite
        

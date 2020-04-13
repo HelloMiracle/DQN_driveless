@@ -1,8 +1,3 @@
-"""
-Author: Richard Cai
-Description: PySprites module, contains all sprites for Getaway game
-Date: 5/29/2015 
-"""
 
 #Importing
 import pygame,random
